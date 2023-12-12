@@ -21,5 +21,5 @@ Feel free to explore our codebase, data analysis notebooks, and project document
 ## Contributor
 - Manasi H. Patil
 
-We invite you to join us on this journey towards better cardiac care and improved health outcomes. Please don't hesitate to reach out with any questions or ideas you may have. Together, we can make a positive impact on healthcare.
+I invite you to join us on this journey towards better cardiac care and improved health outcomes. Please don't hesitate to reach out with any questions or ideas you may have. Together, we can make a positive impact on healthcare.
 
