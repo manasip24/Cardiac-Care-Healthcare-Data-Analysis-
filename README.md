@@ -14,7 +14,7 @@ Welcome to the Cardiac Care project repository! This data-driven initiative is d
 Feel free to explore our codebase, data analysis notebooks, and project documentation to gain insights into our approach and findings. Your feedback and contributions are welcome as we work towards enhancing the prevention and management of heart disease through data-driven strategies.
 
 ## Getting Started
-1. Clone this repository: `git clone [repository URL]`
+1. Clone this repository: `git clone [[repository URL]](https://github.com/manasip24/Cardiac-Care-Healthcare-Data-Analysis-/tree/main)`
 2. Install the required dependencies.
 3. Run the notebooks to analyze and visualize the data.
 
